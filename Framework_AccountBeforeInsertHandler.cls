@@ -1,7 +1,7 @@
 /*
 
 Child of HandlerBase for handiling account trigger actions
-
+some chans
 Class:              Framework_AccountBeforeInsertHandler
 Date:               12/20/2013
 Version:            1
